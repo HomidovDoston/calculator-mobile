@@ -194,3 +194,9 @@ void onButtonPressed(String value) {
     );
   }
 }
+
+
+
+
+
+// Calculator yakunlandi .
